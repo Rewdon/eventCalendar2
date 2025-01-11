@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Event Calendar</string>
+    <string-array name="priority_array">
+        <item>Niski</item>
+        <item>Średni</item>
+        <item>Wysoki</item>
+    </string-array>
+</resources>
